@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-## This is homework 2 done by group members:
 ## Jiaxuan Li
 
 
