@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 ## This is homework 2 done by group members:
-## z5086369@ad.unsw.edu.au   Jiaxuan Li
+## Jiaxuan Li
 
 
 """
